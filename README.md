@@ -17,10 +17,10 @@ Associate Computer Technology Support Specialist and Cybersecurity Fellow with e
 
 ### 📌 Pinned Projects
 
-1. 1. **[Team Titan Fortress | AWS Cloud Security Capstone](https://github.com/M12023/TKH-Final-Capstone)**
-2. **[Operation Fortified Node](https://github.com/M12023/Operation-Fortified-Node)**
+1. **[Team Titan Fortress | AWS Cloud Security Capstone](https://github.com/M12023/TKH-Final-Capstone)**
+2. **[Operation Fortified Node]( https://github.com/M12023/TKH-CybersecurityPhase1/tree/main/week-12)**
    *Hardened Linux infrastructure, network monitoring, and defensive security logging implementation.*
-3. **[The Hardened Outpost](https://github.com/M12023/The-Hardened-Outpost)**
+3. **[The Hardened Outpost](https://github.com/M12023/TKH-CybersecurityPhase1/tree/main/week-06)**
    *Vulnerability assessment, network segmentation, and system hardening lab series.*
 
 ---
