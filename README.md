@@ -29,4 +29,4 @@ Associate Computer Technology Support Specialist and Cybersecurity Fellow with e
 ### 📫 Connect & Portfolio
 
 * **LinkedIn:** www.linkedin.com/in/maurice-ratiff-iii-2369951b6
-* **Resume:** file:///C:/Users/maste/Downloads/Career%20Resume(2).docx.pdf
+* **Resume:** https://drive.google.com/file/d/1sSxd6r03iKrbtInT4MFD_NW211XxQ3p6/view?usp=sharing
