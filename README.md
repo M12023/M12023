@@ -18,9 +18,10 @@ Associate Computer Technology Support Specialist and Cybersecurity Fellow with e
 ### 📌 Pinned Projects
 
 1. **[Team Titan Fortress | AWS Cloud Security Capstone](https://github.com/M12023/TKH-Final-Capstone)**
-2. **[Phase 1 TEPP — Full-Spectrum Penetration Test](https://github.com/M12023/TKH-CybersecurityPhase1)**
+2. **[Phase 1 TEPP — Full-Spectrum Penetration Test](https://github.com/M12023/TKH-CybersecurityPhase1/blob/main/week-12/README.md)**
+   **(https://github.com/M12023/TKH-CybersecurityPhase1/tree/main/week-12)**
    *Complete recon-to-exploitation pentest across three lab network segments, culminating in SQL injection-based data exfiltration.*
-3. **[The Hardened Outpost](https://github.com/M12023/TKH-CybersecurityPhase1/tree/main/week-06)**
+4. **[The Hardened Outpost](https://github.com/M12023/TKH-CybersecurityPhase1/tree/main/week-06)**
    *Vulnerability assessment, network segmentation, and system hardening lab series.*
 
 ---
