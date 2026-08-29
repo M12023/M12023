@@ -21,7 +21,7 @@ Associate Computer Technology Support Specialist and Cybersecurity Fellow with e
    *Automated, secure AWS infrastructure provisioned via Terraform with GitHub Actions tfsec SAST quality gate.*
 2. **[Phase 1 TEPP — Full-Spectrum Penetration Test](https://github.com/M12023/TKH-CybersecurityPhase1)**
    *Complete recon-to-exploitation pentest across three lab network segments, culminating in SQL injection-based data exfiltration.*
-3. **[The Hardened Outpost](https://github.com/M12023/The-Hardened-Outpost)**
+3. **[The Hardened Outpost](https://github.com/M12023/TKH-CybersecurityPhase1/tree/main/week-06)**
    *SSH/firewall hardening, automated infrastructure monitoring, and network-isolated Docker deployment for a small business server environment.*
 
 ---
